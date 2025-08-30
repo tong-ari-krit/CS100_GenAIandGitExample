@@ -3,12 +3,9 @@
 This is a very basic HTML & CSS project used for learning Git and GitHub workflows, including local editing, committing, pushing changes to a remote repository, and deploying with GitHub Pages.
 
 ## Project Structure
-├── index.html
-└── styles.css
-
-
-- **index.html** – The main HTML page of the project.
-- **styles.css** – The stylesheet for the web page.
+simple-web-page/
+├── index.html     # Main HTML page
+└── styles.css     # CSS styles for the page
 
 ## Goal
 
